@@ -1,0 +1,9 @@
+import { Link } from "react-router-dom";
+import classes from './MainNavigation.module.css';
+
+function MainFooter(){
+    return(
+        <div></div>
+    );
+}
+export default MainFooter;
